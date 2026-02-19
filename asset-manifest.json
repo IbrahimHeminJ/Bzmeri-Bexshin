@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Bzmeri-Bexshin/static/css/main.ae7ebf70.css",
-    "main.js": "/Bzmeri-Bexshin/static/js/main.b48ef5f2.js",
+    "main.js": "/Bzmeri-Bexshin/static/js/main.5ce1eb2d.js",
     "static/media/Rabar_036.ttf": "/Bzmeri-Bexshin/static/media/Rabar_036.a203cf4ccf11fb47402a.ttf",
     "index.html": "/Bzmeri-Bexshin/index.html",
     "main.ae7ebf70.css.map": "/Bzmeri-Bexshin/static/css/main.ae7ebf70.css.map",
-    "main.b48ef5f2.js.map": "/Bzmeri-Bexshin/static/js/main.b48ef5f2.js.map"
+    "main.5ce1eb2d.js.map": "/Bzmeri-Bexshin/static/js/main.5ce1eb2d.js.map"
   },
   "entrypoints": [
     "static/css/main.ae7ebf70.css",
-    "static/js/main.b48ef5f2.js"
+    "static/js/main.5ce1eb2d.js"
   ]
 }
