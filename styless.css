@@ -1,0 +1,27 @@
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #1c1c1cce;
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #2c9b96;
+    border-radius: 10px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #2D9E98;
+  }
+
+  @font-face {
+    font-family: "Rabar";
+    src:url('../src/Font/Rabar_036.ttf')
+  }
+  body {
+    font-family: "Rabar", sans-serif;
+  }
